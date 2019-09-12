@@ -1,0 +1,28 @@
+# -*- coding: utf-8 -*-
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+
+#[B]processing station list
+
+# Reading and converting to CSV file
+
+station_list = pd.read_table('/home/jeet/Desktop/IGRA-Data-description/igra2-station-list.txt')
+station_list.to_csv("/home/jeet/Desktop/IGRA-Data-description/igra2-station-list.csv", encoding='utf-8',sep=' ',index=False)
+
+# Reading the newly created CSV file
+
+station_list = pd.read_csv("/home/jeet/Desktop/IGRA-Data-description/igra2-station-list.csv", encoding='utf-8')  
+
+print("\n------- output data :-----------\n")
+print("\t Station list for IGRA project:")
+print("\n-----------------------------------\n")
+
+list(open('/home/jeet/Desktop/IGRA-Data-description/igra2-station-list.txt'))
+
+
+
+
+
