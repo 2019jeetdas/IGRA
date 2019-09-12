@@ -1,0 +1,40 @@
+# -*- coding: utf-8 -*-
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+# [A] Country list data processing 
+
+# Reading and converting to CSV file
+
+country_list = pd.read_table('/home/jeet/Desktop/IGRA-Data-description/igra2-country-list.txt')
+country_list.to_csv("/home/jeet/Desktop/IGRA-Data-description/igra2-country-list.csv", encoding='utf-8',sep=' ',index=False)
+
+# Reading the newly created CSV file
+
+country_list = pd.read_csv("/home/jeet/Desktop/IGRA-Data-description/igra2-country-list.csv", encoding='utf-8')  
+
+print("\n------- output data :-----------\n")
+print("\t Country list for IGRA project:")
+print("\n-----------------------------------\n")
+
+#-------- Question-00 --------------------
+
+# Question – A : get row and column numbers 
+
+print('---------------------------------------------')
+print("Dimension of the data frame = ",country_list.shape)
+print('---------------------------------------------')
+
+# Question – B : print column names :
+
+print('------------------------\n Column names as follows :')
+print('------------------------\n')
+count = 0
+for col in country_list.columns: 
+        print(count,"-->",col)
+        count = count+1
+print("\n-----------------------------\n")
+
+print(country_list)
