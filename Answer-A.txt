@@ -1,0 +1,83 @@
+------- output data :-----------
+
+         Country list for IGRA project:
+
+-----------------------------------
+
+---------------------------------------------
+Dimension of the data frame =  (219, 1)
+---------------------------------------------
+------------------------
+ Column names as follows :
+------------------------
+
+0 --> code ,country
+
+-----------------------------
+
+                       code ,country
+0            AC ,Antigua and Barbuda
+1           AE ,United Arab Emirates
+2                    AF ,Afghanistan
+3                        AG ,Algeria
+4                     AJ ,Azerbaijan
+5                        AM ,Armenia
+6                         AO ,Angola
+7                 AQ ,American Samoa
+8                      AR ,Argentina
+9    AS ,Ashmore and Cartier Islands
+10                     AS ,Australia
+11                       AU ,Austria
+12                    AY ,Antarctica
+13                       BA ,Bahrain
+14                      BB ,Barbados
+15                      BC ,Botswana
+16                       BD ,Bermuda
+17                       BE ,Belgium
+18                   BF ,Bahamas The
+19                    BG ,Bangladesh
+20                        BH ,Belize
+21                       BL ,Bolivia
+22                       BM ,Myanmar
+23                         BN ,Benin
+24                       BO ,Belarus
+25               BP ,Solomon Islands
+26                        BR ,Brazil
+27                      BU ,Bulgaria
+28                        BX ,Brunei
+29                        CA ,Canada
+..                               ...
+189                   TI ,Tajikistan
+190     TK ,Turks and Caicos Islands
+191                        TN ,Tonga
+192                         TO ,Togo
+193        TP ,Sao Tome and Principe
+194                      TS ,Tunisia
+195                  TT ,Timor-Leste
+196                       TU ,Turkey
+197                       TV ,Tuvalu
+198                       TW ,Taiwan
+199                 TX ,Turkmenistan
+200                     TZ ,Tanzania
+201                      UC ,Curacao
+202                       UG ,Uganda
+203               UK ,United Kingdom
+204                      UP ,Ukraine
+205                US ,United States
+206                 UV ,Burkina Faso
+207                   UZ ,Uzbekistan
+208                    VE ,Venezuela
+209                      VM ,Vietnam
+210          VQ ,Virgin Islands U.S.
+211                      WA ,Namibia
+212               WI ,Western Sahara
+213                  WQ ,Wake Island
+214                        WS ,Samoa
+215                        YM ,Yemen
+216                       ZA ,Zambia
+217                     ZI ,Zimbabwe
+218                        ZZ ,Ocean
+
+[219 rows x 1 columns]
+
+In [76]:
