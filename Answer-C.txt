@@ -58,7 +58,7 @@ state_list
 Out[9]: 
                                     States(with_code)
 0                                           AK ALASKA
-1   AL ALABAMA                                    ...
+1                                          AL ALABAMA                                  
 2                                         AR ARKANSAS
 3                                          AZ ARIZONA
 4                                       CA CALIFORNIA
