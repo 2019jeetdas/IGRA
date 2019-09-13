@@ -1,0 +1,113 @@
+Out[8]: 
+['States(with_code)\n',
+ 'AK ALASKA\n',
+ 'AL ALABAMA                                        \n',
+ 'AR ARKANSAS\n',
+ 'AZ ARIZONA\n',
+ 'CA CALIFORNIA\n',
+ 'CO COLORADO\n',
+ 'CT CONNECTICUT\n',
+ 'DC DISTRICT OF COLUMBIA\n',
+ 'DE DELAWARE\n',
+ 'FL FLORIDA\n',
+ 'GA GEORGIA\n',
+ 'HI HAWAII\n',
+ 'IA IOWA\n',
+ 'ID IDAHO\n',
+ 'IL ILLINOIS\n',
+ 'IN INDIANA\n',
+ 'KS KANSAS\n',
+ 'KY KENTUCKY\n',
+ 'LA LOUISIANA\n',
+ 'MA MASSACHUSETTS\n',
+ 'MD MARYLAND\n',
+ 'ME MAINE\n',
+ 'MI MICHIGAN\n',
+ 'MN MINNESOTA\n',
+ 'MO MISSOURI\n',
+ 'MS MISSISSIPPI\n',
+ 'MT MONTANA\n',
+ 'NC NORTH CAROLINA\n',
+ 'ND NORTH DAKOTA\n',
+ 'NE NEBRASKA\n',
+ 'NH NEW HAMPSHIRE\n',
+ 'NJ NEW JERSEY\n',
+ 'NM NEW MEXICO\n',
+ 'NV NEVADA\n',
+ 'NY NEW YORK\n',
+ 'OH OHIO\n',
+ 'OK OKLAHOMA\n',
+ 'OR OREGON\n',
+ 'PA PENNSYLVANIA\n',
+ 'PR PUERTO RICO\n',
+ 'RI RHODE ISLAND\n',
+ 'SC SOUTH CAROLINA\n',
+ 'SD SOUTH DAKOTA\n',
+ 'TN TENNESSEE\n',
+ 'TX TEXAS\n',
+ 'UT UTAH\n',
+ 'VA VIRGINIA\n',
+ 'VI VIRGIN ISLANDS\n',
+ 'VT VERMONT\n',
+ 'WA WASHINGTON\n',
+ 'WI WISCONSIN\n',
+ 'WV WEST VIRGINIA\n',
+ 'WY WYOMING\n']
+====================================================================================
+state_list
+Out[9]: 
+                                    States(with_code)
+0                                           AK ALASKA
+1   AL ALABAMA                                    ...
+2                                         AR ARKANSAS
+3                                          AZ ARIZONA
+4                                       CA CALIFORNIA
+5                                         CO COLORADO
+6                                      CT CONNECTICUT
+7                             DC DISTRICT OF COLUMBIA
+8                                         DE DELAWARE
+9                                          FL FLORIDA
+10                                         GA GEORGIA
+11                                          HI HAWAII
+12                                            IA IOWA
+13                                           ID IDAHO
+14                                        IL ILLINOIS
+15                                         IN INDIANA
+16                                          KS KANSAS
+17                                        KY KENTUCKY
+18                                       LA LOUISIANA
+19                                   MA MASSACHUSETTS
+20                                        MD MARYLAND
+21                                           ME MAINE
+22                                        MI MICHIGAN
+23                                       MN MINNESOTA
+24                                        MO MISSOURI
+25                                     MS MISSISSIPPI
+26                                         MT MONTANA
+27                                  NC NORTH CAROLINA
+28                                    ND NORTH DAKOTA
+29                                        NE NEBRASKA
+30                                   NH NEW HAMPSHIRE
+31                                      NJ NEW JERSEY
+32                                      NM NEW MEXICO
+33                                          NV NEVADA
+34                                        NY NEW YORK
+35                                            OH OHIO
+36                                        OK OKLAHOMA
+37                                          OR OREGON
+38                                    PA PENNSYLVANIA
+39                                     PR PUERTO RICO
+40                                    RI RHODE ISLAND
+41                                  SC SOUTH CAROLINA
+42                                    SD SOUTH DAKOTA
+43                                       TN TENNESSEE
+44                                           TX TEXAS
+45                                            UT UTAH
+46                                        VA VIRGINIA
+47                                  VI VIRGIN ISLANDS
+48                                         VT VERMONT
+49                                      WA WASHINGTON
+50                                       WI WISCONSIN
+51                                   WV WEST VIRGINIA
+52                                         WY WYOMING
+=============================================================================
